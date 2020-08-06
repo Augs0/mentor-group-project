@@ -30,18 +30,20 @@ To help, here are some user stories for the project. User stories are features a
 # Stage 1
 You are going to build a water tracker app :D
 By the end of stage 1, the app should:
-- [] Have a header and footer
-- [] Have a component for the tracker
-- [] Meet basic accessibility needs e.g. colour contrast
-- [] Include at least four components, including App.js
-- [] The tracker should allow users to input the amount of water they have drank in glasses. The input can be implemented any way you like e.g. integer input, buttons to decrease and increase, a dropdown, etc.
-- [] The app should output how much water the user input in glasses
+- [ ] Have a header and footer
+- [ ] Have a component for the tracker
+- [ ] Meet basic accessibility needs e.g. colour contrast
+- [ ] Include at least four components, including App.js
+- [ ] The tracker should allow users to input the amount of water they have drank in glasses. The input can be implemented any way you like e.g. integer input, buttons to decrease and increase, a dropdown, etc.
+- [ ] The app should output how much water the user input in glasses
 # Stage 2
-- [] The user should be able to input both how much water they drank AND how much they want to drink today
-- [] The user should be able to see their water progress e.g. 2/8 glasses
-- [] If not already, the app should use at least one hook (*bonus challenge!)
+- [ ] The user should be able to input both how much water they drank AND how much they want to drink today
+- [ ] The user should be able to see their water progress e.g. 2/8 glasses
+- [ ] If not already, the app should use at least one hook (*bonus challenge!)
 # Stage 3 
-- [] The data should persist or be 'saved'. Prior to the database modules, we might do this with JSON, local storage, etc.
+- [ ] The data should persist or be 'saved'. Prior to the database modules, we might do this with JSON, local storage, etc.
 
 # Stage 4
-- [] Add an extra feature to choose to track other items e.g. pieces of fruit a day, km walked per day, exercise per day
+- [ ] Add an extra feature to choose to track other items e.g. pieces of fruit a day, km walked per day, exercise per day
+
+If anything is unclear, feel free to raise an issue and label it 'question'

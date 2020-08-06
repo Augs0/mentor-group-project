@@ -21,23 +21,27 @@ You might find it easiest to:
 3. push changes back to your forked repo
 4. create your pull request from your forked repo to the develop branch here :)
 
+## Helpful links
+- How to use GitHub issues: https://guides.github.com/features/issues/
+
 ## What are the stages of the project?
 To help, here are some user stories for the project. User stories are features and functions the project should include, but you will have freedom on how to actually make these user stories happen.
 
 # Stage 1
-You are going to build a water tracker app :D It's basic functionality should be:
-- There should be basic content on the page including a header, footer, a basic tracking system e.g. input, instructions on how to use the tracker
-- The project should be split into at least four components, including the App.js file
-- It should meet basic accessibility needs e.g. colour contrast should be readable, no header stepping, semantic HTML where possible
-
+You are going to build a water tracker app :D
+By the end of stage 1, the app should:
+- [] Have a header and footer
+- [] Have a component for the tracker
+- [] Meet basic accessibility needs e.g. colour contrast
+- [] Include at least four components, including App.js
+- [] The tracker should allow users to input the amount of water they have drank in glasses. The input can be implemented any way you like e.g. integer input, buttons to decrease and increase, a dropdown, etc.
+- [] The app should output how much water the user input in glasses
 # Stage 2
-- The tracker should be functional in terms of taking input and showing output
-- The user should be able to put in how much water they drank, as well as how much water they need to drink. They then should be able to see thier progress somehow.
-- If not already completed in stage 1, we should have full CSS on the project e.g. a colour scheme, consistent fonts, etc.
-- Accessibility checks
-
+- [] The user should be able to input both how much water they drank AND how much they want to drink today
+- [] The user should be able to see their water progress e.g. 2/8 glasses
+- [] If not already, the app should use at least one hook (*bonus challenge!)
 # Stage 3 
-- Our tracking data should persist (be 'saved' somehow). We might try to implement a database solution later in the course, but there are other ways we can do it e.g. JSON, local storage
+- [] The data should persist or be 'saved'. Prior to the database modules, we might do this with JSON, local storage, etc.
 
 # Stage 4
-- We can add extra features like allowing users to choose to track something that is not water or giving advice on how much water they need to drink for the day
+- [] Add an extra feature to choose to track other items e.g. pieces of fruit a day, km walked per day, exercise per day
